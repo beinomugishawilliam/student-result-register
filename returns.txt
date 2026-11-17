@@ -1,0 +1,12 @@
+# Library returns register
+# id|member|title|due|returned
+1010|Opio Samuel|The Pragmatic Programmer|2026-10-17|2026-10-25
+1012|Byaruhanga Moses|Artificial Intelligence: A Modern Approach|2026-10-16|2026-10-22
+1008|Kato Brian|Computer Networks|2026-10-20|2026-10-25
+1003|Nakato Sarah|Data Structures in C++|2026-10-21|2026-10-25
+1009|Nabirye Esther|Database System Concepts|2026-10-24|2026-10-25
+1002|Okello David|Introduction to Algorithms|2026-10-18|2026-10-18
+1004|Mugisha Peter|The River Between|2026-10-19|2026-10-17
+1005|Namukasa Ruth|Operating System Concepts|2026-10-22|2026-10-22
+1007|Atim Joan|Weep Not, Child|2026-10-23|2026-10-22
+1014|Beinomugisha William|Things Fall Apart|2026-10-19|2026-10-27
